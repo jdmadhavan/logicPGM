@@ -8,6 +8,7 @@ public class PrimeNumber {
 		
 		
 		System.out.println("One");
+		System.out.println("One");
 
 		
 		System.out.println("Commit From featur p7 branch");
