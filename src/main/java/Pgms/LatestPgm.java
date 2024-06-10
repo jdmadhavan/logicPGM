@@ -6,5 +6,6 @@ public class LatestPgm
 		//Welcome to Dev started our implementation		
 		
 		System.out.println("123");
+		System.out.println("456");
 	}
 }
