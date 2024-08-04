@@ -3,6 +3,7 @@ package Pgms;
 public class PrimeNumber {
 
 	public static void main(String[] args) {
+		//Declare by Dev one
 		System.out.println("stating prime Number");
 		System.out.println("statfgfg");;
 		
