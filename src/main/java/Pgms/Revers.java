@@ -3,6 +3,7 @@ package Pgms;
 public class Revers {
 
 	public static void main(String[] args) {
+		String str = "Welcome";
 		//Declaration by dev one
 		//Dev 2  iam adding some line of code
 		System.out.println("Welcome");
@@ -10,11 +11,12 @@ public class Revers {
 		System.out.println("condition1");
 		//Adding test one
 		//Test 2
-       //Dev one Adding or Modify the code
+		//Dev one Adding or Modify the code
 		System.out.println("Added  from master syso1");
 		System.out.println("Added  from master sys2");
 		System.out.println("Added  from master sys3");
-		System.out.println("Added  from master sys4 dev one changes");
+		System.out.println("Added  from master sys4 changes By dev 2");
+		//Welcome Dev 2 changes
 
 		//I am Adding the Code
 
@@ -22,8 +24,12 @@ public class Revers {
 
 		//Dev 2  iam adding  new logic code
 
-		String s="Welcome Tester world" // added by dev one
+		String s="Welcome Tester world"; // added by dev one
+
+
+		if (str.contains("Welcome")) {
+			System.out.println("Print Nice");
+		}
 
 	}
-
 }
