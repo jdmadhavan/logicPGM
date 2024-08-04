@@ -22,6 +22,9 @@ public class PrimeNumber {
 		System.out.println("Developer one code update1");
 		System.out.println("Developer one code update2");
 		//New addition by Dev one
+
+
+		//Dev one for revert
 	}
 
 }
