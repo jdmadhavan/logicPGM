@@ -7,6 +7,12 @@ public class Revers {
 		System.out.println("condition");
 		System.out.println("condition1");
 
+		System.out.println("Added  from master syso1");
+		System.out.println("Added  from master sys2");
+		System.out.println("Added  from master sys3");
+		System.out.println("Added  from master sys4");
+
+
 		//I am Adding the Code
 
 	}
