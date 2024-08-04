@@ -4,6 +4,7 @@ public class Revers {
 
 	public static void main(String[] args) {
 		String str = "Text";
+		//Declaration by dev one
 		//Dev 2  iam adding some line of code
 		System.out.println("Welcome");
 		System.out.println("condition");
@@ -22,6 +23,9 @@ public class Revers {
 		//Dev 2 iam adding some code changes in different file
 
 		//Dev 2  iam adding  new logic code
+
+		String s="Welcome Tester world"; // added by dev one
+
 
 		if (str.contains("Welcome")) {
 			System.out.println("Print Nice");
