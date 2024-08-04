@@ -18,6 +18,7 @@ public class PrimeNumber {
 		System.out.println("Commit From featur p7 branch new4");
 
 		System.out.println("Developer one code update1");
+		System.out.println("Developer one code update2");
 	}
 
 }
