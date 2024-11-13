@@ -21,7 +21,7 @@ public class PrimeNumber {
 
 		// ready 
 		
-//revert is ready
+//revert is ready 
 	}
 
 }
