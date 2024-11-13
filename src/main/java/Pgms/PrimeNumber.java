@@ -19,9 +19,7 @@ public class PrimeNumber {
 
 
 
-		// ready
-
-		//Revert
+		// ready 
 	}
 
 }
